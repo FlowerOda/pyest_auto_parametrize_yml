@@ -10,3 +10,4 @@ class TestBaiDu:
 
 if __name__ == '__main__':
     pytest.main(['-vs',__file__],plugins=[auto_parametrize_yml])
+    # 命令行运行 pytest -vs case/test_baidu.py  
