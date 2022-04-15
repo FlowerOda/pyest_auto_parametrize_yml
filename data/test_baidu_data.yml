@@ -1,0 +1,8 @@
+search_success:
+  argnames : key
+  argvalues:
+    - 测试1
+    - 测试2
+  ids:
+    - test 1
+    - test 2
