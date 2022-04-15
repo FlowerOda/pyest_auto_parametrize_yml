@@ -1,0 +1,2 @@
+# pyest_auto_parametrize_yml
+自动根据case名称寻找对应的data.yml实现参数化驱动
